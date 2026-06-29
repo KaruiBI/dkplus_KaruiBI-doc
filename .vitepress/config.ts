@@ -16,20 +16,31 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文档导览', link: '/guide/' },
-      { text: '操作手册', link: '/guide/agilebi-operation' },
+      { text: '操作手册', link: '/guide/manual-login' },
       { text: 'GitHub', link: 'https://github.com/DKAgileBI/AgileBI_web' }
     ],
     sidebar: {
       '/guide/': [
         {
-          text: 'AgileBI 文档',
+          text: '使用指引',
           items: [
-            { text: '文档导览', link: '/guide/' },
-            { text: '为什么选择 dkPlus', link: '/guide/intro' },
-            { text: '安装', link: '/guide/install' },
-            { text: '快速开始', link: '/guide/quick-start' },
-            { text: 'AgileBI 操作手册', link: '/guide/agilebi-operation' },
-            { text: '常见问题', link: '/guide/faq' }
+            { text: '开始阅读', link: '/guide/' },
+            { text: '系统定位', link: '/guide/intro' },
+            { text: '页面指引', link: '/guide/install' },
+            { text: '模块介绍', link: '/guide/quick-start' }
+          ]
+        },
+        {
+          text: '操作手册',
+          items: [
+            { text: '手册总览', link: '/guide/agilebi-operation' },
+            { text: '登录系统', link: '/guide/manual-login' },
+            { text: '首页与工作台', link: '/guide/manual-home' },
+            { text: '我的模板', link: '/guide/manual-template' },
+            { text: '我的组件', link: '/guide/manual-component' },
+            { text: '我的数据集', link: '/guide/manual-dataset' },
+            { text: '字典管理', link: '/guide/manual-dict' },
+            { text: '用户管理', link: '/guide/manual-user' }
           ]
         }
       ]
