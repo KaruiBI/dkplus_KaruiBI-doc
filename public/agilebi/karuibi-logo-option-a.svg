@@ -1,0 +1,14 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="24" fill="#F8FBFF"/>
+  <g transform="translate(90 88)">
+    <circle cx="90" cy="90" r="54" fill="none" stroke="#163D8F" stroke-width="18"/>
+    <path d="M90 14 A76 76 0 0 1 166 90" stroke="#36B8C8" stroke-width="16" stroke-linecap="round"/>
+    <path d="M14 90 A76 76 0 0 1 90 14" stroke="#78D7E0" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="90" cy="90" r="14" fill="#163D8F"/>
+    <circle cx="176" cy="90" r="11" fill="#36B8C8"/>
+    <circle cx="44" cy="24" r="11" fill="#78D7E0"/>
+  </g>
+  <text x="350" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="700" fill="#18355E">Karui<tspan fill="#2C8FBB">BI</tspan></text>
+  <text x="352" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#5F7088">Business Intelligence Platform</text>
+  <text x="352" y="254" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#8B99AB">Core Ring concept for stable analytics and enterprise intelligence</text>
+</svg>

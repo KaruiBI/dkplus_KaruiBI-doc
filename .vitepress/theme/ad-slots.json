@@ -1,0 +1,33 @@
+{
+  "quickSlots": [
+    {
+      "title": "dk-plus 官网",
+      "href": "https://dk-plus.com/zh/",
+      "image": "https://oss.cadwaladerss.com/dk-plus/images/isicon.png"
+    },
+    {
+      "title": "uView UI",
+      "href": "https://uviewui.com/",
+      "image": "https://oss.cadwaladerss.com/dk-plus/images/uView.png"
+    },
+    {
+      "title": "Vue Admin Plus",
+      "href": "https://vue-admin-beautiful.com/admin-plus/?hmsr=dk-plus&hmpl=&hmcu=&hmkw=&hmci=#/index",
+      "image": "https://oss.cadwaladerss.com/dk-plus/images/vue-admin-beautiful.png"
+    },
+    {
+      "title": "Vue Shop Vite",
+      "href": "https://vue-admin-beautiful.com/shop-vite/?hmsr=dk-plus&hmpl=&hmcu=&hmkw=&hmci=",
+      "image": "https://oss.cadwaladerss.com/dk-plus/images/vue-admin-beautiful.png"
+    }
+  ],
+  "mainSlots": [
+    {
+      "title": "YouPinAI",
+      "desc": "AI 产品导航与精选平台，适合快速发现可用工具、效率应用与智能服务入口。",
+      "href": "https://youpinai.cn/",
+      "image": "/agilebi/ads/youpinai-feature.svg",
+      "meta": "首位广告"
+    }
+  ]
+}

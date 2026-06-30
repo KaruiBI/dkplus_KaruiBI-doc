@@ -1,10 +1,10 @@
-# AgileBI 操作手册
+# KaruiBI 操作手册
 
 > 本手册基于本地运行地址 `http://localhost:9999/#/login` 编写，页面截图均已做脱敏处理，仅用于功能说明。
 
 <div class="agilebi-hero">
   <div class="agilebi-hero__copy">
-    <div class="agilebi-hero__badge">AgileBI</div>
+    <div class="agilebi-hero__badge">KaruiBI</div>
     <h1>面向业务与实施场景的图文操作手册</h1>
     <p>
       这不是单页长文档，而是一组按模块拆开的独立页面。
@@ -17,7 +17,7 @@
     </div>
   </div>
   <div class="agilebi-hero__visual">
-    <img src="/agilebi/login.png" alt="AgileBI 登录页" />
+    <img src="/agilebi/login.png" alt="KaruiBI 登录页" />
   </div>
 </div>
 
@@ -26,7 +26,8 @@
 1. 先看 [登录系统](/guide/manual-login)，确认入口和登录方式。
 2. 再看 [首页与工作台](/guide/manual-home)，先建立页面整体认知。
 3. 接着看 [我的模板](/guide/manual-template)、[我的组件](/guide/manual-component)、[我的数据集](/guide/manual-dataset)，理解业务使用主线。
-4. 最后看 [字典管理](/guide/manual-dict) 和 [用户管理](/guide/manual-user)，补充后台维护类入口。
+4. 再看 [AI分析页列表](/guide/manual-ai-list) 和 [AI分析页设置](/guide/manual-ai-setting)，一个负责看结果，一个负责做配置。
+5. 最后看 [字典管理](/guide/manual-dict) 和 [用户管理](/guide/manual-user)，补充后台维护类入口。
 
 ## 模块列表
 
@@ -35,6 +36,8 @@
 - [我的模板](/guide/manual-template)
 - [我的组件](/guide/manual-component)
 - [我的数据集](/guide/manual-dataset)
+- [AI分析页列表](/guide/manual-ai-list)
+- [AI分析页设置](/guide/manual-ai-setting)
 - [字典管理](/guide/manual-dict)
 - [用户管理](/guide/manual-user)
 
