@@ -1,6 +1,6 @@
 # KaruiBI 操作手册
 
-> 本手册基于本地运行地址 `http://localhost:9999/#/login` 编写，页面截图均已做脱敏处理，仅用于功能说明。
+> 本手册基于本地运行地址 `https://karuibi.dk-plus.com/` 编写，页面截图均已做脱敏处理，仅用于功能说明。
 
 <div class="agilebi-hero">
   <div class="agilebi-hero__copy">
@@ -11,7 +11,7 @@
       你可以从总览开始，也可以直接从左侧菜单进入登录系统、首页工作台、模板、组件、数据集和管理入口。
     </p>
     <div class="agilebi-hero__meta">
-      <span>本地地址：`http://localhost:9999/#/login`</span>
+      <span>本地地址：`https://karuibi.dk-plus.com/`</span>
       <span>截图状态：已脱敏</span>
       <span>账号获取：联系管理员</span>
     </div>
@@ -27,7 +27,8 @@
 2. 再看 [首页与工作台](/guide/manual-home)，先建立页面整体认知。
 3. 接着看 [我的模板](/guide/manual-template)、[我的组件](/guide/manual-component)、[我的数据集](/guide/manual-dataset)，理解业务使用主线。
 4. 再看 [AI分析页列表](/guide/manual-ai-list) 和 [AI分析页设置](/guide/manual-ai-setting)，一个负责看结果，一个负责做配置。
-5. 最后看 [字典管理](/guide/manual-dict) 和 [用户管理](/guide/manual-user)，补充后台维护类入口。
+5. 再看 [模型管理总览](/guide/manual-model)，然后按子菜单继续读 `全局 AI 设置 / 模型列表管理 / 用户记忆 / 公共技能提示词`。
+6. 最后看 [字典管理](/guide/manual-dict) 和 [用户管理](/guide/manual-user)，补充后台维护类入口。
 
 ## 模块列表
 
@@ -38,6 +39,7 @@
 - [我的数据集](/guide/manual-dataset)
 - [AI分析页列表](/guide/manual-ai-list)
 - [AI分析页设置](/guide/manual-ai-setting)
+- [模型管理](/guide/manual-model)
 - [字典管理](/guide/manual-dict)
 - [用户管理](/guide/manual-user)
 
