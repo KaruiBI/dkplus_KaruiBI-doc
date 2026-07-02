@@ -15,7 +15,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文档导览', link: '/guide/' },
-      // { text: '关于作者｜赞助', link: '/author' },
+      { text: '关于作者｜赞助', link: '/author' },
       {
         text: '相关链接',
         items: [

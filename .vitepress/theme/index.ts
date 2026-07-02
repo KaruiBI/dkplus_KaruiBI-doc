@@ -2,6 +2,7 @@ import DefaultTheme from 'vitepress/theme'
 import { inBrowser, useRoute } from 'vitepress'
 import { h, nextTick, watch } from 'vue'
 import DocAsideAds from './components/DocAsideAds.vue'
+import AuthorSponsorPage from './components/AuthorSponsorPage.vue'
 import './custom.css'
 
 const ZOOMABLE_SELECTOR = '.vp-doc img'
@@ -75,6 +76,10 @@ function setupZoomableImages() {
 
 export default {
   extends: DefaultTheme,
+  enhanceApp({ app }) {
+    app.component('AuthorSponsorPage', AuthorSponsorPage)
+    app.component('DocAsideAds', DocAsideAds)
+  },
   Layout() {
     return h(DefaultTheme.Layout, null, {
       'aside-outline-before': () => h(DocAsideAds)
