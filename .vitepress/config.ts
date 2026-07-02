@@ -16,6 +16,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '文档导览', link: '/guide/' },
       { text: '关于作者｜赞助', link: '/author' },
+      { text: '免责声明', link: '/statement' },
       {
         text: '相关链接',
         items: [
@@ -28,7 +29,7 @@ export default defineConfig({
           { text: 'VisActor', link: 'https://www.visactor.io/' }
         ]
       },
-      { text: 'GitHub', link: 'https://github.com/DKAgileBI/AgileBI_web' }
+      { text: 'GitHub', link: 'https://github.com/KaruiBI/dkplus_KaruiBI-doc' }
     ],
     sidebar: {
       '/guide/': [
@@ -104,7 +105,7 @@ export default defineConfig({
         }
       ]
     },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/DKAgileBI/AgileBI_web' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/KaruiBI/dkplus_KaruiBI-doc' }],
     footer: {
       message: '',
       copyright:
