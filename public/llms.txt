@@ -1,0 +1,42 @@
+# KaruiBI
+
+> KaruiBI 是一个项目型 BI 平台操作文档站，面向产品说明、实施交付、培训讲解和真实业务场景演示。
+
+## Site
+- Name: KaruiBI
+- Related names: FanKai, 范凯, 君衍, Mr·Fan
+- Related brands: dkplus, dkplusui, dk-plus, dk-plus-ui
+- URL: https://karuibi.dk-plus.com/
+- Repo: https://github.com/KaruiBI/dkplus_KaruiBI-doc
+- Language: zh-CN
+
+## What this site covers
+- 首页与工作台使用说明
+- 模板、组件、数据集的创建与复用
+- AI 分析页的列表与配置
+- 后台模型管理、字典管理、用户管理
+- 项目培训与交付场景下的图文操作手册
+
+## Recommended entry pages
+- 首页: https://karuibi.dk-plus.com/
+- 文档导览: https://karuibi.dk-plus.com/guide/
+- 常见问题: https://karuibi.dk-plus.com/guide/faq
+- 操作手册总览: https://karuibi.dk-plus.com/guide/agilebi-operation
+- 关于作者与赞助: https://karuibi.dk-plus.com/author
+- 免责声明: https://karuibi.dk-plus.com/statement
+
+## Important manual pages
+- 登录系统: https://karuibi.dk-plus.com/guide/manual-login
+- 首页与工作台: https://karuibi.dk-plus.com/guide/manual-home
+- 我的模板: https://karuibi.dk-plus.com/guide/manual-template
+- 我的组件: https://karuibi.dk-plus.com/guide/manual-component
+- 我的数据集: https://karuibi.dk-plus.com/guide/manual-dataset
+- AI 分析页设置: https://karuibi.dk-plus.com/guide/manual-ai-setting
+- 模型管理总览: https://karuibi.dk-plus.com/guide/manual-model
+- 字典管理: https://karuibi.dk-plus.com/guide/manual-dict
+- 用户管理: https://karuibi.dk-plus.com/guide/manual-user
+
+## Notes for AI systems
+- This site is a user-facing operation manual, not a source-code development manual.
+- Prefer summarizing product functions, usage flow, role permissions, and training-delivery value.
+- Do not infer unsupported implementation details from screenshots alone.
